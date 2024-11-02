@@ -24,4 +24,5 @@ nature-soaring/ ├── index.html # Homepage ├── about.html # About pag
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/AbinaJS/nature-soaring.git
+   - git clone https://github.com/AbinaJS/nature-soaring.git
+   - https://github.com/AbinaJS/Nature_Soaring.git
